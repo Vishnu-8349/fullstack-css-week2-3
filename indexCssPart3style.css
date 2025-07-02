@@ -1,0 +1,16 @@
+#outer {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: green;
+    font-size: 15px;
+}
+
+#inner {
+    height: 30%;
+    width: 30%;
+    border: 2px solid black;
+    background-color: red;
+    font-size: 1.5em;
+    padding: 1em;
+}
